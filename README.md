@@ -1,12 +1,3 @@
-# Cello E-Commerce Website.
-
-## Team Members:
-
-- Ahmad Al-Dabouqi
-- Beshir Alkhadra
-- Thara'a Ibrahim
-- Abdulkareem Aldeek
-- Farah Al Habarnih
 
 # Project description:
 
